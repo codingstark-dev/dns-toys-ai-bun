@@ -4,7 +4,7 @@ A fun DNS server implementation in Bun.js that provides various utility function
 
 ## Demo
 
-<video src="demo/dnsbun.mp4" controls title="DNS Toys Demo"></video>
+![DNS Toys Demo](demo/dnsbun.gif)
 
 ## Features
 
