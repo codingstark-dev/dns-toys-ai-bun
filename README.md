@@ -2,6 +2,10 @@
 
 A fun DNS server implementation in Bun.js that provides various utility functions through DNS queries. This project is inspired by [dns.toys](https://github.com/knadh/dns.toys) created by [Kailash Nadh](https://github.com/knadh), CTO of Zerodha. While maintaining all the original functionality, this version adds AI-powered DNS responses using GPT models.
 
+## Demo
+
+<video src="demo/dnsbun.mp4" controls title="DNS Toys Demo"></video>
+
 ## Features
 
 - AI-powered DNS responses using GPT models
